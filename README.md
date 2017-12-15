@@ -3,5 +3,5 @@
 ## FILE AND DIR LIST
 - index.html
 - OJINDEX2015
-  - Event2015.png
-  - main.css
+  - Event2015.png
+  - main.css
